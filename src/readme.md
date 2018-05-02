@@ -7,15 +7,7 @@ Esta carpeta contiene la base de datos de acordes, pero modificada para nuestro 
 Subconjunto 1 -> Carpetas Noisefree y Noisy\
 Subconjunto 2 -> Carpeta Other_Instruments\
 
-En caso de querer acceder a la base de datos original, este es el enlace: {\field{\*\fldinst{HYPERLINK "http://www.montefiore.ulg.ac.be/services/acous/STSI/file/jim2012Chords.zip"}}{\fldrslt 
-\f1\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
-http://www.montefiore.ulg.ac.be/services/acous/STSI/file/jim2012Chords.zip}}
-\f1\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
- 
-\fs24 \cf4 \cb1 \
-
-\f0 \cf0 \kerning1\expnd0\expndtw0 \
-\
+En caso de querer acceder a la base de datos original, este es el enlace: http://www.montefiore.ulg.ac.be/services/acous/STSI/file/jim2012Chords.zip
 # src
 # MAT-Files
 Los archivos .mat son aquellos structs de los conjuntos que hemos usado para evaluar los resultados de nuestros clasificadores. Los resultados de la memoria del proyecto han sido obtenidos con estos structs.
