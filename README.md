@@ -15,7 +15,7 @@ The classification algorithms we used were a k-nn classifier and a multi class s
 
 ## License
 
-This project is licensed under the MIT License - see the [license.md](https://github.com/100330734/chordRecognizer/license.md) file for details
+This project is licensed under the MIT License - see the [license.md](https://github.com/100330734/chordRecognizer/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
