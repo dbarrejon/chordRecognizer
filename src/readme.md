@@ -1,29 +1,7 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red16\green60\blue192;\red255\green255\blue255;\red0\green0\blue0;
-}
-{\*\expandedcolortbl;;\cssrgb\c6667\c33333\c80000;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh15040\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+En el siguiente documento describimos cómo debe usarse nuestro código del proyecto para la asignatura Tratamiento de Información Multimedia de la Universidad Carlos III de Madrid:\
 
-\f0\fs24 \cf0 \
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 RECONOCEDOR DE ACORDES\
-\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
-Daniel Barrej\'f3n Moreno \
-Miguel Fern\'e1ndez D\'edaz\
-\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\'97\
-\
-En el siguiente documento describimos c\'f3mo debe usarse nuestro c\'f3digo del proyecto para la asignatura Tratamiento de Informaci\'f3n Multimedia de la Universidad Carlos III de Madrid:\
-\
-\
-descarga_basededatos.txt\
-*****************************************************************************************************************************************************************************************************************************************************************************\
-Documento que contiene el enlace para descargar la base de datos.\
-\
-\
-jim2012Chords\
+
+# jim2012Chords\
 *****************************************************************************************************************************************************************************************************************************************************************************\
 Esta carpeta contiene la base de datos de acordes, pero modificada para nuestro problema. \
 Subconjunto 1 -> Carpetas Noisefree y Noisy\
