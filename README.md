@@ -1,10 +1,6 @@
 # chordRecognizer
 Music chord recognizer implemented as a project for the subject 'Multimedia information processing'. 
 
-# Authors
-Daniel Barrejón Moreno
-Miguel Fernández Díaz.
-
 This was the final project for the subject 'Multimedia information processing'. This chord recognizar is primarily focused on the recognition of guitar chords, since it has been trained with a data set of guitar chords created by the University of Liège.
 
 What we did for this project was trying to recreate the results obtained [in this paper](http://jim.afim-asso.org/jim12/pdf/jim2012_08_p_osmalskyj.pdf).
